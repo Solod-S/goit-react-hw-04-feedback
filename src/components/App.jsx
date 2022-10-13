@@ -66,8 +66,11 @@ export default App;
 
 
 
-//useState
-//
+//----------------------
+//----------------------
+// useState
+//----------------------
+//----------------------
 // export function App ()  {
 //   const [good, setGood] = useState(0)
 //   const [neutral, setNeutral] = useState(0)
@@ -131,8 +134,11 @@ export default App;
 // export default App;
 
 
-// STATE
-
+//----------------------
+//----------------------
+// state
+//----------------------
+//----------------------
 // class App1 extends React.Component {
 //   state = {
 //     good: 0,
